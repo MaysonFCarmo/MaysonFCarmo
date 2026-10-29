@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou o Mayson Farias! 👋
+# Olá, eu sou o Mayson Farias! 
 
 ### Desenvolvedor Web | React • JavaScript • Node.js
 
