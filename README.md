@@ -90,13 +90,13 @@ Site pessoal desenvolvido para apresentar meus projetos, habilidades e evoluçã
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MaysonFCarmo&show_icons=true&theme=github_dark&hide_border=true)
+![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=MaysonFCarmo&show_icons=true&theme=github_dark&hide_border=true)
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MaysonFCarmo&layout=compact&theme=github_dark&hide_border=true)
+![Linguagens mais utilizadas](https://github-stats-extended.vercel.app/api/top-langs/?username=MaysonFCarmo&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
